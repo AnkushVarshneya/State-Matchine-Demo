@@ -1,4 +1,4 @@
-A simple p2p hangman game using c sockets and signals.
+A state matchine demo in scheme.
 
 Usage:
 
